@@ -1,0 +1,25 @@
+{
+    "History and Download History": [
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\History"
+    ],
+
+    "Media History": [
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Media History"
+    ],
+
+    "HTML5 Web Storage": [
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Local Storage"
+    ],
+
+    "HTML5 FileSystem": [
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\File System"
+    ],
+
+    "Auto-Complete Data": [
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\History",
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Web Data",
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Shortcuts",
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Network Action Predictor",
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Login Data"
+    ]
+}
