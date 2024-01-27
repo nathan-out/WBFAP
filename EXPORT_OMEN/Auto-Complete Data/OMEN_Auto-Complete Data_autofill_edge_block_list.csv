@@ -1,0 +1,17 @@
+guid,block_value,block_value_type,attribute_flag,meta_data,device_model,date_created,date_modified
+dd57a9b3-c323-4d93-bd22-a81fcc92f8c7,secure.bankofamerica.com,1,33280,secure.bankofamerica.com,VMware7,1,1689149285,0
+e5903998-34f1-4f55-8707-8870025d3998,bankofamerica.com,1,33280,bankofamerica.com,VMware7,1,1689149285,0
+27711f81-bfd6-4f31-8825-5bbd76ce82b8,turbotax.intuit.com,1,33280,turbotax.intuit.com,VMware7,1,1689149285,0
+e492aa21-c10b-410e-8bdd-3edfc3b67ae9,dev.azure.com,1,33280,dev.azure.com,VMware7,1,1689149285,0
+3d215b08-feef-4f41-bb70-9440cf08d17d,online.canarabank.in|$|2463933404,3,8519680,Canara Change Transaction Password,VMware7,1,1689149285,0
+be14db70-aa12-4617-937f-d5cc36697eac,autofill.account.microsoft.com/,1,8519680,AMC password management page,VMware7,1,1689149285,0
+2910b24d-d6dd-4e8d-9d4a-d6257df88fde,edge-webscratch/scratch/edge/autofill/Credentials/SimpleLoginGlobalBlock.html,0,8519680,Test URL for global passwords blocklist,VMware7,1,1689149285,0
+90eddcf9-3bc2-4887-8695-9b160703d7e2,outlook.office.com,1,33280,outlook.office.com,VMware7,1,1689149285,0
+fa4648fa-8677-4fcb-87b8-bb8fefc10649,tasks.office.com,1,33280,tasks.office.com,VMware7,1,1689149285,0
+af49bb15-f026-44a9-9f06-a59d1844e64f,outlook.office365.com,1,33280,outlook.office365.com,VMware7,1,1689149285,0
+d0bc0ad7-6137-4e35-a87d-381e91045715,online.canarabank.in|$|-6908686398814051166,3,8519680,Canara Transaction Password,VMware7,1,1689149285,0
+91c1afdb-850e-482d-ac87-3856cb902e55,online.canarabank.in|$|-5396408197698963614,3,8519680,Canara Change Transaction Password,VMware7,1,1689149285,0
+8431de5a-0f4f-4e76-823b-363d4b005416,8153978097816738556|$|2376052379,3,33280,ms.portal.azure.com,VMware7,1,1689149285,0
+e1a9c378-9903-4cfa-9bea-64cbb5a4ca34,microsoft.visualstudio.com,1,33280,microsoft.visualstudio.com,VMware7,1,1689149285,0
+0b7c24be-47a2-42f5-98bd-a3eb2be4fb31,online.canarabank.in|$|4190082000,3,8519680,Canara Transaction Password,VMware7,1,1689149285,0
+acbebc73-f63a-4243-9b77-862a75a462a0,edge-webscratch|$|1697087349614708908,2,130,global block list test form,VMware7,1,1689149285,0

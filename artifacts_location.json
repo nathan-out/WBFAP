@@ -1,17 +1,21 @@
 {
     "History and Download History": [
-        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\History"
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\History",
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\History"
     ],
 
     "Media History": [
-        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Media History"
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Media History",
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\Media History"
     ],
 
     "HTML5 Web Storage": [
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\Media History",
         "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Local Storage"
     ],
 
     "HTML5 FileSystem": [
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\File System",
         "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\File System"
     ],
 
@@ -20,6 +24,53 @@
         "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Web Data",
         "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Shortcuts",
         "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Network Action Predictor",
-        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Login Data"
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Login Data",
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\History",
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\Web Data",
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\Shortcuts",
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\Network Action Predictor",
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\Login Data"
+    ],
+
+    "Cache": [
+        "%USERPROFILE%\\AppData\\Google\\Chrome\\User Data\\<Profile>\\Cache-data_#",
+        "%USERPROFILE%\\AppData\\Google\\Chrome\\User Data\\<Profile>\\f_######",
+        "%USERPROFILE%\\AppData\\Google\\Chrome\\User Data\\<Profile>\\Cache\\-data_#",
+        "%USERPROFILE%\\AppData\\Google\\Chrome\\User Data\\<Profile>\\Cache\\f_######",
+        "%USERPROFILE%\\AppData\\Microsoft\\Edge\\User Data\\<Profile>\\Cache\\-data_#",
+        "%USERPROFILE%\\AppData\\Microsoft\\Edge\\User Data\\<Profile>\\Cache\\f_######"
+    ],
+
+    "Bookmarks": [
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Bookmarks",
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\Bookmarks",
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Bookmarks.bak",
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\Bookmarks.msbak"
+    ],
+
+    "Stored Credentials": [
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Login Data",
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\Login Data"
+    ],
+
+    "Browser Downloads": [
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\History",
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\History"
+    ],
+
+    "Extensions": [
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Extensions\\<GUID>\\<version>",
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\Extensions\\<GUID>\\<version>"
+    ],
+
+    "Session Restore": [
+        "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\<Profile>\\Sessions",
+        "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\<Profile>\\Sessions"
+    ],
+
+    "Cookies": [
+        "%USERPROFILE%\\Local Settings\\Application Data\\Google\\Chrome\\User Data\\<Profile>\\Cookies",
+        "%USERPROFILE%\\Local Settings\\Application Data\\Google\\Chrome\\User Data\\<Profile>\\Network\\Cookies",
+        "%USERPROFILE%\\Local Settings\\Application Data\\Microsoft\\Edge\\User Data\\<Profile>\\Network\\Cookies"
     ]
 }
